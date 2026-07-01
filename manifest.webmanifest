@@ -1,0 +1,20 @@
+{
+  "name": "Morse Code Translator",
+  "short_name": "Morse",
+  "description": "Encode, decode, listen, flash and export Morse code with European and Nordic character support.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["utilities", "education"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
